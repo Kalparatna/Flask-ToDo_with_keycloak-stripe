@@ -15,6 +15,7 @@ This project is a Flask-based To-Do list application with Keycloak authenticatio
 
 
 
+
 ## Prerequisites
 Before setting up the project, make sure you have the following installed:
 
